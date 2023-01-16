@@ -1,5 +1,5 @@
 name: pyinstaller_build
- 
+
 on:
   push:
     branches: [ master ]
